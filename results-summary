@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Results summary component</title>
+
+  <link rel="stylesheet" href="./design/style.css">
+
+    <body>
+    <div class="container">
+    <div class="result">
+
+      <h2>Your Result</h2>
+
+      <div class="score">
+        <h1>76</h1>
+        <p>of 100</p>
+      </div>
+
+      <h2>Great</h2>
+      <p>You scored higher then 65% of the pople who have taken these tests.</p>
+      
+      </div>
+
+      <div class="summary">
+        <h2>Summary</h2>
+
+        <div class="category reaction">
+                <p>⚡ Reaction</p>
+                <p><strong>80</strong> / 100</p>
+            </div>
+
+             <div class="category memory">
+                <p> Memory</p>
+                <p><strong>92</strong> / 100</p>
+            </div>
+
+
+            <div class="category verbal">
+                <p>💬 Verbal</p>
+                <p><strong>61</strong> / 100</p>
+            </div>
+
+
+
+              <div class="category visual">
+                <p>👁 Visual</p>
+                <p><strong>73</strong> / 100</p>
+            </div>
+
+
+            <button>Continue</button>
+
+      </div>
+
+      
+
+  
+</head>
+
+
+ 
+  <footer class="attribution">
+    
+</body>
+</html>
